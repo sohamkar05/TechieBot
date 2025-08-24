@@ -6,7 +6,7 @@ An **AI-powered chatbot** built with **HTML, CSS, and JavaScript**, using the **
 
 ## 🚀 Live Demo
 
-👉 [Try it here](https://soumyaditya25.github.io/LoomaBot/)
+👉 [Try it here](https://sohamkar05.github.io/TechieBot/)
 
 ---
 
@@ -21,7 +21,7 @@ An **AI-powered chatbot** built with **HTML, CSS, and JavaScript**, using the **
 
 ## 📌 How to Use
 
-1. Open the [Live Demo](https://soumyaditya25.github.io/LoomaBot/).
+1. Open the [Live Demo](https://sohamkar05.github.io/TechieBot/).
 2. Type your technical question in the chat box.
 3. Get **instant AI-powered answers**.
 
